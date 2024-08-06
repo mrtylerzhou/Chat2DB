@@ -27,7 +27,7 @@
 
 
 <div style="display: flex; align-items: center;">
-  If you think Chat2DB helpful, please click ⭐ Star<a style="display: flex; align-items: center;margin:0px 6px" target="_blank" href='https://github.com/chat2db/Chat2db'><img src="https://img.shields.io/github/stars/chat2db/Chat2DB.svg?style=flat-square&label=Stars&logo=github" alt="github star"/></a> and Fork this repo in the top right corner
+  If you think Chat2DB helpful, please click ⭐ Star<a style="display: flex; align-items: center;margin:0px 6px" target="_blank" href='https://github.com/chat2db/Chat2db'><img src="https://img.shields.io/github/stars/chat2db/Chat2DB.svg?style=flat-square&label=Stars&logo=github" alt="github star"/></a> and Fork this repo on the top right corner
 </div>
 <div style="display: flex; align-items: center;">
   Or upvote on Product Hunt
