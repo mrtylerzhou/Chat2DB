@@ -66,7 +66,7 @@
 - huggingface🤗：[Chat2DB-SQL-7B](https://huggingface.co/Chat2DB/Chat2DB-SQL-7B)
 - modelscope：[Chat2DB-SQL-7B](https://modelscope.cn/models/Chat2DB/Chat2DB-SQL-7B/summary)
 
-### 🎁🎁🎁 在Chat2DB上即成InternLM模型
+### 🎁🎁🎁 在Chat2DB上集成InternLM模型
 感谢InternLM对本项目的大力支持，在本项目中的自定义模型中，可以集成InternLM的多个模型权重，具体请参考[chat2db-internlm-deploy](https://github.com/chat2db/chat2db-internlm-deploy)
 
 ## 🚀 支持的数据库
